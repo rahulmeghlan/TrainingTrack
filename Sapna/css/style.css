@@ -1,0 +1,118 @@
+ body{
+	 background-color:#F4F4F4;
+
+ }
+ .bg{
+	border-top:15px solid #111111;
+}
+.hg{
+	float:right;
+	color:#DCDCDC;
+}
+.logo{
+	height: 100px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.nav1{
+	word-spacing:50px;
+	float:right;
+	padding:62px;
+}
+.home{
+	color:black;
+	text-decoration:none;
+}
+.all{
+	color:orange;
+	text-decoration:none;
+  }
+  .wrapper{
+	  display:block;
+	  background-color:#F37B01;
+	  width:100%;
+	  overflow:auto;
+	}
+	
+.creative-span{
+	color:#FFFFFF;
+	font-family:Verdana;
+	font-size:73px;
+       }
+	.creative-txt{
+	width: 50%;
+	float:left;
+	   }
+    .creative-img{
+	width: 50%;
+    float: right;
+	}
+	.creative-strip{
+		background-color:#000000;
+		color:#DCDCDC;
+		width:25%;
+		float:left;
+		padding:10px;
+		padding-top:16px;
+		margin-left:0.5%;
+	}
+	.portfolio{
+		color:#F37B01;	
+	}
+	.About{
+		width:40%;
+		float:left;
+		margin-left:none;
+	}
+	.h1{
+		margin-top:2%;
+	}
+	
+	.benefits{
+		float:left;
+		margin-left:-215px;
+	}
+	.Testimonials{
+		float:right;
+		margin-top:-151px;
+	}
+	.hr{
+		width:1800px;
+	}
+	.img{
+		width:22%;
+		float:left;
+		margin-right: 2%;
+	}
+	.connect{
+		float:right;
+		margin-top:-7%;
+	}
+	.footer{
+		background-color:#E2E2E2;
+		padding:30px;
+	}
+	.nav2{
+		float:left;
+
+	}
+	.nav-color{
+		color:gray;
+		font-size:14px;
+		text-decoration:none;
+		float:left;
+	}
+	.logo3{
+	 float:right;
+	 margin-top:-2%;
+	}
+.clearfix:after{
+	content: " ";
+	display: table;
+	clear: both;
+  }
+ 
+  
+  
