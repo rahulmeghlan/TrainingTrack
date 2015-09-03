@@ -1,0 +1,41 @@
+body{
+	background-color:#F7F5C5;
+	}
+	.bg{
+		border-top:10px solid #607A9F;
+		width:100%;
+		}
+		.border-top{
+			    height: 36px;
+				margin-top: -8px;
+				margin-left: -8px;
+				width:101%;
+				}
+				.header{
+					background-color:#60C8C9;
+					width:101%;
+					height:126px;
+					margin-left:-8px;
+					margin-top:-23px;}
+					.border{
+						width: 104%;
+						margin-left: -3%;
+                        margin-top: -0.5%;
+						}
+						.logo{
+							    height: 94%;
+								margin-left: 9%;
+								margin-top:0.5%;
+								}
+								.nav{
+									float: right;
+                                     margin-top: 3%;
+                                     margin-right: 24%;
+                                     word-spacing: 56px;
+									}
+									.special{
+										background-color:#099185;
+										color:linen;}
+									
+    
+ 
