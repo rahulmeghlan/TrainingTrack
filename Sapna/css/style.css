@@ -1,5 +1,7 @@
  body{
 	 background-color:#F4F4F4;
+	 margin-left:2%;
+	 margin-right:4%;
 
  }
  .bg{
@@ -61,8 +63,8 @@
 	.portfolio{
 		color:#F37B01;	
 	}
-	.About{
-		width:40%;
+	.about{
+	
 		float:left;
 		margin-left:none;
 	}
@@ -71,15 +73,35 @@
 	}
 	
 	.benefits{
-		float:left;
-		margin-left:-215px;
+	
+		margin-left:515px;
+		width:444px;
 	}
-	.Testimonials{
+	.testimonials{
 		float:right;
-		margin-top:-151px;
+		margin-top:-217px;
 	}
+	.mid-section{
+		font-size:42px;
+		font-family:sans-serif;
+		text-align:left;
+		}
+		.line{
+			margin-top:-1px;
+			border-color:black;
+			border-width:5px;
+			}
+		.section-para{
+			font-size:16px;
+			text-decoration:none;
+			}
+			.read{
+				color:orange;
+				font-size:14px;
+				text-decoration:none;
+				}
 	.hr{
-		width:1800px;
+		width:1486px;
 	}
 	.img{
 		width:22%;
@@ -96,6 +118,9 @@
 	}
 	.nav2{
 		float:left;
+		color:gray;
+		text-decoration:none;
+		margin-top:-1%;
 
 	}
 	.nav-color{
@@ -107,6 +132,15 @@
 	.logo3{
 	 float:right;
 	 margin-top:-2%;
+	 width:7%;
+	}
+	.para{
+		color:gray;
+		font-size:14px;
+		float:left;
+		text-decoration:none;
+		margin-left:-17%;
+		margin-top:0.5%
 	}
 .clearfix:after{
 	content: " ";
